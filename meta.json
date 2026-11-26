@@ -1,0 +1,23 @@
+{
+  "repo": "lm-studio-local-llm-manager-professional-desktop-setup-guide",
+  "product": "LM Studio Local LLM Manager Pro Desktop Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "lm-studio-llm-pro",
+    "lm-studio",
+    "lm-studio-llm",
+    "lm-studio-pro",
+    "how-to-install-lm-studio",
+    "how-to-setup-lm-studio",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "LM Studio Local LLM Manager Pro Desktop Setup Guide"
+}
